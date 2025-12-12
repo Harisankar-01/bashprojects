@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash
+
 echo "Welcome To Hari's Bash Scripts" |boxes -d bear |lolcat
 echo "========================================================================"
 figlet -f slant FILE EXPLORER |lolcat
