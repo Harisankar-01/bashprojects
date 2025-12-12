@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash
+
 #Multiplication table using bash script
 #greetings...
 echo "WELCOME TO HARI'S BASH SCRIPTS"|boxes -d bear |lolcat
