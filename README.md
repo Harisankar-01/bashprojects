@@ -1,1 +1,1 @@
-Some random stuffs i made at the time of learning bash scripting......just for fun.
+Some random stuffs i made at the time of learning shell scripting......just for fun.
